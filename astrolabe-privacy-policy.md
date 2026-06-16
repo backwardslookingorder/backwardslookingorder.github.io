@@ -1,3 +1,7 @@
+layout: page
+title: "Astrolabe Privacy Policy"
+permalink: https://backwardslookingorder.github.io/astrolabe-privacy-policy
+
 # Privacy Policy for Astrolabe
 
 *Last updated: June 15, 2026*
