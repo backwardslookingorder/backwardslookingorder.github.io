@@ -247,4 +247,4 @@ These are computed on-device over the similarity edges:
 All of the above — decoding, feature extraction, standardization, UMAP, k-means,
 graph metrics — runs **entirely on your device**. No audio, no features, and no
 listening data are ever uploaded. See the
-[privacy policy](privacy-policy.md) for details.
+[privacy policy](astrolabe-privacy-policy.md) for details.
