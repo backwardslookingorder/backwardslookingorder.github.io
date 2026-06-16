@@ -71,10 +71,10 @@ If the app's behavior ever changes in a way that affects this policy (for exampl
 
 If you have questions about this policy, find something in the app that surprises you, or have a privacy concern, please reach out:
 
-**Email:** [your-email-here@whatever.com]
+**Email:** trevor.thiess@gmail.com
 
 I read every message. Reasonable response time is a few days.
 
 ---
 
-*Astrolabe is developed and maintained by [Your Name / Eventual Company Name], based in [Your City, Country]. It is currently in active development; feedback is welcome and appreciated.*
+*Astrolabe is developed and maintained by Trevor Thiess, based in Minneapolis MN USA. It is currently in active development; feedback is welcome and appreciated.*
